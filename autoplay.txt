@@ -1,0 +1,1 @@
+//added toggle for autoplay
